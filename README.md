@@ -1,1 +1,1 @@
-basic html, js, css file that just counts up or down. basiccountingapp.netlify.app 
+basic html, js, css file that just counts up or down. https://basiccountingapp.netlify.app 
